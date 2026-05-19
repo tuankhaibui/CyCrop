@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# CyCrop output
+cropped_images/
+crops/
+
+# Editor
+.vscode/
+.idea/
